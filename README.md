@@ -128,6 +128,4 @@ pytest
 - Автор: [IgOrPiNgViN](https://github.com/IgOrPiNgViN)
 - Репозиторий: [https://github.com/IgOrPiNgViN/Back-kurs](https://github.com/IgOrPiNgViN/Back-kurs)
 
----
 
-> Если потребуется добавить разделы или примеры запросов — дайте знать!
